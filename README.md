@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I’m currently working on Skynode
+## How to reach me: bradensalcetti@icloud.com OR 3018023049
 
 <!--
 **bsalsa2/bsalsa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
